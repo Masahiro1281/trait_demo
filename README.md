@@ -1,0 +1,2 @@
+# trait_demo
+traitのでもコード
